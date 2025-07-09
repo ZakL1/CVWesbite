@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export function ProjectsSection() {
   return (
-    <section className="py-12 max-w-4xl mx-auto">
+    <section className="bg-white py-12 m-8 rounded-lg shadow-lg">
       <h2 className="text-3xl font-semibold mb-6 text-center">Projects</h2>
       <div className="space-y-6">
         <Card>

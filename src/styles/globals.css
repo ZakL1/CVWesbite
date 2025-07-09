@@ -122,3 +122,10 @@
     @apply bg-background text-foreground;
   }
 }
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 1px;
+  padding: 5px;
+}
+
