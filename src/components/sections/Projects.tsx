@@ -14,6 +14,13 @@ export function ProjectsSection() {
             <Button variant="link">View on GitHub</Button>
           </CardContent>
         </Card>
+          <Card>
+          <CardContent className="p-6">
+            <h3 className="text-2xl font-bold mb-2">Project Name</h3>
+            <p className="mb-2">Short description of the project.</p>
+            <Button variant="link">View on GitHub</Button>
+          </CardContent>
+        </Card>
       </div>
     </section>
   );

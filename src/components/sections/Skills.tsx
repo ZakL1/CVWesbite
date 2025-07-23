@@ -11,6 +11,14 @@ export function SkillsSection() {
           <Card><CardContent className="text-center p-4">Node.js</CardContent></Card>
           <Card><CardContent className="text-center p-4">Tailwind CSS</CardContent></Card>
           <Card><CardContent className="text-center p-4">MongoDB</CardContent></Card>
+          <Card><CardContent className="text-center p-4">React</CardContent></Card>
+          <Card><CardContent className="text-center p-4">Node.js</CardContent></Card>
+          <Card><CardContent className="text-center p-4">Tailwind CSS</CardContent></Card>
+          <Card><CardContent className="text-center p-4">MongoDB</CardContent></Card>
+          <Card><CardContent className="text-center p-4">React</CardContent></Card>
+          <Card><CardContent className="text-center p-4">Node.js</CardContent></Card>
+          <Card><CardContent className="text-center p-4">Tailwind CSS</CardContent></Card>
+          <Card><CardContent className="text-center p-4">MongoDB</CardContent></Card>
         </div>
       </div>
     </section>
